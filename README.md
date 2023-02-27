@@ -15,6 +15,7 @@
 - 📫 How to reach me ...
 - Website: https://osppro.com
 - Facebook : https://www.facebook.com/seguya.denis.7/
+- Linkedin: https://linkedin.com/in/osppro
 - Twitter : https://twitter.com/ospsolutions
 - Whatsapp : +256704487563 
 
