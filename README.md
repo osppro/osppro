@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @osppro
-- 👀 I’m interested in web development and computer programming using technologies like
-    (php, nodejs,react,angularjs, mysql,flask,python,html5,css3,bootstrap,
-      w3css,javascript,ajax,cml,json,pdo,oop)etc
+- 👀 I’m interested in Backend Development (PHP, Python, NodeJs, JavaScript, NextJs,ExpressJs, Redux, Ajax, XML, JSON, API Development, MYSQL, PostgresDB, MongoDB)
+- 👀 I'm interested in Front-end Development (HTML5,CSS3, Bootstrap, W3CSS, JQuery,Angular2+, React, React-Native, Flask, Pyramid, Bottle)
 
-🔭 I’m currently working at Hamz Limited, (Full Stack Developer)
+🔭 I’m currently Freelancing and Open for New Job Opportunity
+
 [DevOps, Python/Flask/Django,PHP, MySQL, API Integration Developer, React Front-end Developer, RabbitMQ, CodeIgniter, Laravel])
 
 🌱 I’m currently learning Flutter, React-Native Android Apps Development
