@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm OSP PRO</h1>
 <h3 align="center">A passionate Full Stack Developer from Uganda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osppro" alt="osppro" /></a> </p>
+<p align="left"> <a href="https://github.com/osppro/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osppro" alt="osppro" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/osppro" target="blank"><img src="https://img.shields.io/twitter/follow/osppro?logo=twitter&style=for-the-badge" alt="osppro" /></a> </p>
 
