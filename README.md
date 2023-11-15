@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [https://osppro.com](https://osppro.com)
 
-- 💬 Ask me about **PHP,React-Native,React,VueJs,Angular, Python, Flutter, C, Go**
+- 💬 Ask me about **PHP,React-Native,React,VueJs,Angular, Python, Flask,Django,Julia Flutter, C, Go**
 
-- 📫 How to reach me **dev@osppro.com**
+- 📫 How to reach me **osp123ug@gmail.com**
 
 - 📄 Know about my experiences [https://osppro.com/resume](https://osppro.com/resume)
 
