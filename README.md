@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/osppro/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osppro" alt="osppro" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ospsolutions" target="blank"><img src="https://img.shields.io/twitter/follow/osppro?logo=twitter&style=for-the-badge" alt="osppro" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [Gosente Payment Gateway](https://gosente.com)
 
@@ -20,7 +21,6 @@
 - 📫 How to reach me **osp123ug@gmail.com**
 
 - 📄 Know about my experiences [https://osppro.com/resume](https://osppro.com/resume)
-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
