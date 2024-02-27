@@ -20,6 +20,7 @@
 - 📫 How to reach me **osp123ug@gmail.com**
 
 - 📄 Know about my experiences [https://osppro.com/resume](https://osppro.com/resume)
+- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
